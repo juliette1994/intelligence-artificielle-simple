@@ -1,2 +1,2 @@
-# intelligence-artificielle-simple
+# Une Intelligence Artificielle Simple
 C Project
